@@ -10,5 +10,5 @@ A randomly generated 3x3 grid of blue/green tiles are created. Click on a tile t
 3) Open comand prompt and navigate to the location of the downloaded files
 4) run "python main.py" for windows or "python3 main.py" for macOS and linux
 
-# Install App
+# Install App for iOS and Android
 Follow instructions on https://www.youtube.com/watch?v=T3rOvpDzEOY&ab_channel=kenechukwuAkubue and https://colab.research.google.com/gist/kaustubhgupta/0d06ea84760f65888a2488bac9922c25/kivyapp-to-apk.ipynb#scrollTo=EeTysn9dntOO
